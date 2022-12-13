@@ -6,6 +6,6 @@ using namespace std;
 int main ()
 {
 	cout << "\nhello git\n";
-	cout << "hello git again\n";
+	cout << "Creating a merge conflict\n";
 	return 0;
 }
