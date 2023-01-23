@@ -2,7 +2,7 @@
 #include <fstream>
 
 using namespace std;
-This is will error i swear
+
 int main ()
 {
 	cout << "\nhello git\n";
