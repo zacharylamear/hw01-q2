@@ -6,8 +6,6 @@ This is will error i swear
 int main ()
 {
 	cout << "\nhello git\n";
-	cout << "Creating a merge conflict\n";
-	give me an error please
-	
+	cout << "there's a change\n";
 	return 0;
 }
