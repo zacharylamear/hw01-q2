@@ -2,7 +2,7 @@
 #include <fstream>
 
 using namespace std;
-HAHAHAHAHAHAHA error time
+This is wrong pls error
 int main ()
 {
 	cout << "\nhello git\n";
