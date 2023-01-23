@@ -2,7 +2,6 @@
 #include <fstream>
 
 using namespace std;
-
 int main ()
 {
 	cout << "\nhello git\n";
